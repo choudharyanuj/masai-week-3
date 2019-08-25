@@ -1,0 +1,31 @@
+.main {
+	display: grid;
+	grid-template-columns: 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+	grid-template-rows:    48px 48px 48px 48px 48px 48px 48px 48px 48px;
+	margin-top: 2%;
+	margin-left: 33%;
+}
+.main input {
+	border: 1px  solid red;
+	text-align: center;
+}
+h1 {
+	font-family: 'Orbitron', sans-serif;
+}
+#name {
+	border:2px solid black;
+	width: 400px;
+	height: 80px;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Orbitron', sans-seri
+}
+.change {
+	background-color: grey;
+}
+.bg {
+	background-color: red;
+}
+body button {
+	margin-left: 43%;
+}
